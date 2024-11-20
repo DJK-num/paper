@@ -4,3 +4,4 @@ https://openmlsys.github.io/chapter_distributed_training/overview.html
 https://pfzuo.github.io/project/
 https://kernelmaker.github.io/Btree_LSM_FTI
 https://arxiv.org/abs/2407.00079
+https://developer.huawei.com/consumer/cn/forum/topic/0204156782840388142
